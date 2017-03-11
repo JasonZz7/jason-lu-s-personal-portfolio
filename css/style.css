@@ -1,0 +1,100 @@
+.pageOne {
+  background: url("http://unsplash.com/photos/h8nxGssjQXs/download?force=true");
+  background-size: cover;
+  height: 800px;
+  padding-top: 15%;
+}
+
+.nav-pills {
+  font-size: 30px;
+  background-color: black;
+  font-family: Lobster;
+  opacity: .9;
+}
+
+body {
+  background-color: black;
+  font-family: Lobster;
+  color: white;
+}
+
+.pageTwo {
+  background: url("http://unsplash.com/photos/J8KMIolTmGA/download?force=true");
+  background-size: cover;
+  height: 800px;
+  padding-top: 5%;
+}
+
+p {
+  font-size: 1.7em;
+}
+
+#myphoto {
+  height: 350px;
+  display: block;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+.block {
+  background-color: ;
+  opacity: .95;
+  padding: 10px;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 4.0em;
+}
+
+h2 {
+  font-size: 3.0em
+}
+
+.btn-default {
+  background-color: white;
+  opacity: .8;
+  border-color: black;
+  color: #337ab7;
+  font-size: 1.7em;
+  margin-top: 1%;
+}
+#btngroup2{
+  opacity:.9;
+ margin-top:50px;
+}
+.btnList {
+  margin-top: 40px;
+}
+
+hr {
+  margin-top: 5%
+}
+
+.pageThree {
+  background: url("http://unsplash.com/photos/C6duwascOEA/download?force=true");
+  background-size: cover;
+  height: 800px;
+  padding-top: 10%;
+}
+
+.pageFour {
+  background: url("http://unsplash.com/photos/-HPhkZcJQNk/download?force=true");
+  background-size: cover;
+  height: 800px;
+  padding-top: 10%;
+}
+#hr2{
+  margin-top:5%;
+}
+p{
+  font-size:1.0em;
+}
+footer{
+  background-color:black;
+  opacity:0.8;
+  margin-top:-10%;
+}
